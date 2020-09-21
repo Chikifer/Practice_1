@@ -1,4 +1,4 @@
-# Practice 1. Developiong the PCB (Schematic)
+# Practice 1. Developing the PCB (Schematic)
 
 ## Objectives
 
